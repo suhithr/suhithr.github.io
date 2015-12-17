@@ -1,0 +1,62 @@
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-size: 55px;
+	letter-spacing: 0.25rem;
+	font-weight: 700;
+}
+
+h4 {
+	font-size: 28px;
+}
+
+.wrapper {
+	padding: 20px 0px;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.home {
+	margin: 10% 0px 5%;
+}
+
+.icons {
+	text-align: center;
+}
+.social-media-list  a {
+	text-decoration: none;
+	text-decoration-color: -moz-use-text-color;
+	text-decoration-line: none; 
+	text-decoration-style: solid;
+	color: #ADADAD;
+}
+
+.social-media-list  a:hover {
+	color: black;
+}
+
+a:visited {
+	color: #11B17E;
+}
+
+a:-webkit-any-link {
+	cursor: auto;
+}
+
+#icon_block {
+	max-width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.social-media-list {
+	list-style: outside none none;
+	text-align: center;
+	font-size: 300%;
+	padding-right: 5%;
+}

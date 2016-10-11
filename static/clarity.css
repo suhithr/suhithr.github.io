@@ -34,6 +34,14 @@ h4 {
 	padding-right: 5%;
 }
 
+#oneliner {
+	font-family: 'Lato';
+}
+
+#hobbies {
+	font-family: 'Lato Light';
+}
+
 .social-media-list  a:hover {
 	color: black;
 }
